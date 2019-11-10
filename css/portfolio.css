@@ -20,8 +20,12 @@ h1 {
 }
 .one {
     color: white;
-    margin-top: 35%;
+    margin-top: 37%;
     margin-left: 33%;
+}
+.floater {
+    margin-left: 40%;
+    margin-top :1%;
 }
 img {
     width: 100px;
@@ -29,4 +33,13 @@ img {
 }
 h2 {
     margin-left: 45%;
+}
+.cardOne {
+    /* background-image: url(https://www.simbisabrands.com/media/1635/pizza-inn-d-1.jpg); */
+}
+.cardTwo >img {
+    margin-top: 20px;
+}
+ul li{
+    text-decoration: none;
 }
