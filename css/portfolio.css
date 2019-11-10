@@ -1,0 +1,32 @@
+h1 {
+    color:white;
+    margin-top: 18%;
+    font-size: 55px;
+}
+#one {
+    width: 100%;
+
+    background-image: url(https://cdn.pixabay.com/photo/2019/11/08/16/06/landscape-4611763__340.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#two {
+    width: 100%;
+    background: rgba(0,0,0, 0.2);
+}
+.container {
+    width: 100%;
+  
+}
+.one {
+    color: white;
+    margin-top: 35%;
+    margin-left: 33%;
+}
+img {
+    width: 100px;
+
+}
+h2 {
+    margin-left: 45%;
+}
