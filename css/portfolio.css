@@ -1,6 +1,6 @@
 h1 {
     color:white;
-    margin-top: 18%;
+    margin-top: 20%;
     font-size: 55px;
 }
 #one {
@@ -20,7 +20,7 @@ h1 {
 }
 .one {
     color: white;
-    margin-top: 37%;
+    margin-top: 35%;
     margin-left: 33%;
 }
 .floater {
@@ -42,4 +42,31 @@ h2 {
 }
 ul li{
     text-decoration: none;
+}
+.five{
+    margin-left :40%;
+}
+
+ul{
+    /* display: flex; */
+    align-items: flex-end;
+    flex-direction: row;
+  justify-content: center;
+  
+}
+ul > li{
+    text-decoration: none;
+}
+li{
+    text-decoration:none;
+    padding: 15px;
+}
+#four {
+    background: black;
+}
+#four h2{
+    color: white;
+}
+small{
+    color: white;
 }
